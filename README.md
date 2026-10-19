@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Adrian Rafid Hridoy 👋
 
-<!--
-**AdrianRafidHridoy/AdrianRafidHridoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Engineering Student** | Khwaja Yunus Ali University  
+💻 Passionate about Programming, Software Engineering & Tech Innovation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 **Currently studying:** Core Computer Science, Discrete Math & C Programming
+- 🛠️ **Exploring:** Data Structures, Algorithms & Web Technologies
+- 🎯 **Goals:** Building impactful software projects and contributing to open source
+- 💬 **Ask me about:** C Programming, Logic Building, and Academic Projects
+
+---
+
+### 🛠️ Tech & Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+📈 **GitHub Stats**  
+*(Your activity will show up here as you build projects!)*
